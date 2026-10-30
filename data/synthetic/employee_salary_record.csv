@@ -1,0 +1,16 @@
+Staff_ID,Employee_Name,National_ID,Department,Basic_Salary_KES,Allowances_KES,Net_Pay_KES,KRA_PIN
+EMP-501,Maina Kimani,National ID: 24100380,Credit Risk,"108,158","19,468","91,890",P406284028K
+EMP-502,Nyambura Kariuki,National ID: 16194119,Human Resources,"247,607","44,569","210,366",P333754555X
+EMP-503,Nyambura Oduor,National ID: 36097895,Credit Risk,"216,828","39,029","184,217",A153839920Y
+EMP-504,Cherono Ndung'u,National ID: 16282565,Retail Banking,"189,987","34,197","161,412",A299528037X
+EMP-505,Otieno Githinji,National ID: 24548459,Retail Banking,"220,984","39,777","187,747",A721609600Y
+EMP-506,Barasa Rotich,National ID: 25066853,Legal & Compliance,"75,418","13,575","64,074",P379995032Z
+EMP-507,Ochieng Githinji,National ID: 19912544,Mobile Operations,"240,564","43,301","204,382",A821221887W
+EMP-508,Ochieng Rotich,National ID: 11312574,Mobile Operations,"184,858","33,274","157,055",A178663096Y
+EMP-509,Cherono Anyango,National ID: 15444504,Credit Risk,"120,877","21,757","102,696",A362298393W
+EMP-510,Chebet Kipchoge,National ID: 38975838,Information Security,"139,707","25,147","118,694",P756783995Y
+EMP-511,Nyambura Karanja,National ID: 33259631,Retail Banking,"67,050","12,069","56,965",A383968123X
+EMP-512,Achieng Langat,National ID: 16215966,Credit Risk,"298,232","53,681","253,377",P749431082Z
+EMP-513,Ochieng Kiplagat,National ID: 34068575,Legal & Compliance,"253,117","45,561","215,048",P642678844K
+EMP-514,Kamau Rotich,National ID: 32283054,Mobile Operations,"130,829","23,549","111,152",P147337803X
+EMP-515,Kiprono Anyango,National ID: 16421791,Legal & Compliance,"152,439","27,439","129,512",P692362342K

@@ -1,0 +1,43 @@
+PATIENT INTAKE RECORD #1
+Facility: Nairobi Metropolitan Health Center
+Patient Name: Mwangi Anyango
+National ID No: 25759675
+Emergency Contact: +254 733 345 884
+Clinical Diagnosis: HIV positive - routine viral load monitoring
+Doctor Treatment Notes: Patient attended clinical consultation. Prescribed daily medication. Requires follow-up medical review in 4 weeks.
+
+---
+PATIENT INTAKE RECORD #2
+Facility: Nairobi Metropolitan Health Center
+Patient Name: Ochieng Waweru
+National ID No: 29124501
+Emergency Contact: +254 722 258 157
+Clinical Diagnosis: Type 2 Diabetes Mellitus
+Doctor Treatment Notes: Patient attended clinical consultation. Prescribed daily medication. Requires follow-up medical review in 4 weeks.
+
+---
+PATIENT INTAKE RECORD #3
+Facility: Nairobi Metropolitan Health Center
+Patient Name: Maina Njoroge
+National ID No: 34703493
+Emergency Contact: +254 712 535 020
+Clinical Diagnosis: Acute bacterial bronchitis
+Doctor Treatment Notes: Patient attended clinical consultation. Prescribed daily medication. Requires follow-up medical review in 4 weeks.
+
+---
+PATIENT INTAKE RECORD #4
+Facility: Nairobi Metropolitan Health Center
+Patient Name: Ochieng Langat
+National ID No: 26633825
+Emergency Contact: 0701-316-881
+Clinical Diagnosis: Acute bacterial bronchitis
+Doctor Treatment Notes: Patient attended clinical consultation. Prescribed daily medication. Requires follow-up medical review in 4 weeks.
+
+---
+PATIENT INTAKE RECORD #5
+Facility: Nairobi Metropolitan Health Center
+Patient Name: Maina Moraa
+National ID No: 34337878
+Emergency Contact: +254 110 600 149
+Clinical Diagnosis: Hypertension stage 2
+Doctor Treatment Notes: Patient attended clinical consultation. Prescribed daily medication. Requires follow-up medical review in 4 weeks.
